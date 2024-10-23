@@ -6,7 +6,6 @@ library(dplyr)
 library(ggplot2)
 library(ggcorrplot)
 library(forcats)
-library(forestmodel)
 
 
 # Create useful functions --------------------------------------------------------

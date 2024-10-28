@@ -8,6 +8,7 @@ library(ggcorrplot)
 library(forcats)
 library(forestmodel)
 library(ggplot3)
+library(readxl)
 
 # Create useful functions --------------------------------------------------------
 
